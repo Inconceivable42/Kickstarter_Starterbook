@@ -18,13 +18,21 @@ It wasn't until I was creating the graphs that I realized that the values of the
 * As shown in graph *Theater Outcomes Based on Launch Date* (below), **Theater** kickstarters launched in May and June have a greater chance of reaching their goal in comparison to other months. This advantage does not, however, appear to be extreme. The spike shown on the graph is partly a result of May and June have the largest number of kickstarters.
 In addition to December having the least number of kickstarters launching, it also has the smallest percentage of successful percentages. 
 
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/100614690/161425333-88cb4a55-d306-4566-811e-3765f54d3208.png)
+
+
 * The graph *Outcomes Based on Goal* (below) shows an analysis of **Plays** kickstarters. No **Plays** kickstarters were cancelled, therefore, the line graph of successful and failed are mirror images of each other along the 50% horizontal. Based solely on goals, setting a goal of less than 1000 or 1000 to 4999 offers the greatest chance of meeting the goal with 76% and 73% sucessful respectfully.
+* 
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/100614690/161425365-bccbd73f-fe43-4126-a5f3-13c18dda09f4.png)
+
 
 ### Limitations and Future Analysis
 * The greatest limitation of the dataset used in this analysis was the small number of data points for larger goal kickstarters. 
 * Available data for the month of December appears lower than statistically expected. It is not clear if December truly has less kickstarter launches or there is missing data for that month.
 
 * In order to truly compare the results of the *Fever* kickstarter, the analysis based on launch date should have been limited to the **Plays** subset. 
+
+* 
 
 
 
