@@ -32,7 +32,9 @@ In addition to December having the least number of kickstarters launching, it al
 
 * In order to truly compare the results of the *Fever* kickstarter, the analysis based on launch date should have been limited to the **Plays** subset. 
 
-* 
+* Further tables could include the number of days of kickstarters, primarily to see if duration affected success. It could also go a step further to add month of launch or season if lumping is needed to have a large enough data set.
+
+* Country of origin should also be added. Are **Plays** kickstarters more likely to succeed in the US or GB? However, if the data set is not large enough, this may not be feasible.
 
 
 
